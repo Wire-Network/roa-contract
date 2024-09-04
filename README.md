@@ -1,0 +1,1 @@
+# Resource Owners Association ( ROA ) Smart Contract for Wire Network
